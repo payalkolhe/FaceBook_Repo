@@ -1,0 +1,28 @@
+{
+	"activeEnv" : "QA",
+	
+	"environments" :
+	
+	{
+		"QA" :
+		{
+			"baseURL" : "https://www.facebook.com/"
+			
+		},
+		
+		"Stage" :
+		{
+			"baseURL" : "https://www.facebook.com/",
+			"email": "test@gmail.com",
+			"password":"234560"
+		},
+		
+		"Prod"  :
+		{
+			"baseURL" : "https://www.facebook.com/",
+			"email": "test@gmail.com",
+			"password":"234560"
+		}
+	}
+	
+}
