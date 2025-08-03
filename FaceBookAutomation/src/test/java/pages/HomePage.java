@@ -33,6 +33,8 @@ public class HomePage {
 			Assert.assertEquals(actual, expected);
 			Assert.assertTrue(Friends.isDisplayed());
 			System.out.println("verification succesfull..landed on Home page");
+			System.out.println("hii");
+			System.out.println("hiii");
 		}
 		catch(Exception e) {
 			System.err.println("Friends is not clicked.");
